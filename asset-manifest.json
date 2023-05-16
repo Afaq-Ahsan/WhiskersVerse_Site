@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WhiskersVerse_Site/static/css/main.6812d7ae.css",
+    "main.js": "/WhiskersVerse_Site/static/js/main.bd343d00.js",
+    "static/media/About-img.png": "/WhiskersVerse_Site/static/media/About-img.69d9f7a16e2f3983292b.png",
+    "static/media/dapp.jpg": "/WhiskersVerse_Site/static/media/dapp.8f88275c1bcae0f872f6.jpg",
+    "static/media/seo.png": "/WhiskersVerse_Site/static/media/seo.c6e368412e9f5788c744.png",
+    "static/media/SMM.jpg": "/WhiskersVerse_Site/static/media/SMM.92a08acd9fcf14d24f36.jpg",
+    "static/media/Daco_158630.png": "/WhiskersVerse_Site/static/media/Daco_158630.5f28ed3d97bb251669dd.png",
+    "static/media/WebSite.png": "/WhiskersVerse_Site/static/media/WebSite.bd7bc6b34cab4584d36d.png",
+    "index.html": "/WhiskersVerse_Site/index.html",
+    "main.6812d7ae.css.map": "/WhiskersVerse_Site/static/css/main.6812d7ae.css.map",
+    "main.bd343d00.js.map": "/WhiskersVerse_Site/static/js/main.bd343d00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6812d7ae.css",
+    "static/js/main.bd343d00.js"
+  ]
+}
